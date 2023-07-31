@@ -1,5 +1,5 @@
 # Remind
-SDD Assessment Task 1 (Year 11, 2021)
+SDD Year 11 Assessment Task (2021)
 
 ## Screenshots
 ![Screenshot 1](https://github.com/Chinosu/Remind/blob/main/Screenshot%20homepage.png)
